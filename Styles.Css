@@ -101,7 +101,7 @@
             margin: 24px 0 0 57px;
         }
 
-    @media screen and(max-width: 900) {
+    @media screen and(max-width: 900px) {
         .container-left {
             width: 100px;
             height: 50px;
